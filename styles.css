@@ -1,0 +1,14 @@
+p {
+    color:rgb(2, 6, 86);
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+
+}
+
+body {
+    background-color: rgb(2, 6, 86);
+    color: white;
+}
